@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text="삽질도 성장의 일부")
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
